@@ -1,0 +1,140 @@
+.content {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #808080;
+    font-family: Helvetica;
+}
+
+#navigateButton {
+    float: right;
+    font-size: 30px;
+    margin-right: 3%;
+}
+
+#navigate {
+    float: right;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+#nextPatientButton {
+    font-size: 30px;
+    float: left;
+    margin-left: 3%;
+}
+
+.saveButton {
+    font-size: 30px;
+}
+
+.title {
+    color: white;
+    background-color: #660066;
+    text-align: center;
+    border-radius: 20px;
+    border: solid white;
+    margin: 5px;
+    margin-top: 50px;
+}
+
+
+h2:first-child {
+    font-size: 33px;
+    text-decoration: underline;
+}
+
+.dropdown {
+    font-size: 20pt;
+}
+
+#goButton {
+    min-height: 35px;
+    position: relative;
+    font-size: 30px;
+}
+
+label {
+    font-size: 28px;
+}
+
+.errorText {
+    color: red;
+    font-size: 25pt;
+}
+
+input {
+    font-size: larger;
+}
+
+.left {
+    float: left;
+    margin-left: 125px;
+}
+
+.right {
+    float: right;
+    margin-right: 125px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    font-size: 30px;
+}
+
+.header {
+    font-size: 30px;
+}
+
+tr:hover {
+    font-weight: bold;
+}
+
+.oddRow {
+    background-color: lightsteelblue;
+}
+
+.evenRow {
+    background-color: lightgray;
+}
+
+#nameCol {
+    width: 675px;
+}
+
+.smallCol {
+    width: 100px;
+}
+
+table tr td a {
+    display:block;
+    height:100%;
+    width:100%;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+textarea {
+    font-size: 25pt;
+}
+
+.hidden {
+    display: none;
+    font-size: 30pt;
+}
+
+.visible {
+    visibility: visible;
+    font-size: 50pt;
+}
+
+.instructions {
+    font-size: 25pt;
+}
